@@ -1,0 +1,31 @@
+let title = "提示讯息:" // string 字串 
+let title1 = "错误"
+let title2 = "正确"
+
+let alert1 = title + title1
+let alert2 = title + title2
+console.log(alert1)
+console.log(alert2)
+
+
+let score = 100  // number
+// + - * / & 
+console.log(score + 200)
+
+
+//let isFake = false //true false booleam布林
+//console.log(isFake)
+
+//let bag = undefined
+//console.log(bag)
+
+//let bag2 = null
+//console.log(bag)
+
+// var let const
+
+const a1 = "aaa"
+//const 稳定
+console.log(a1)
+a1 = "bb"
+console.log(a1)
